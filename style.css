@@ -6,9 +6,6 @@
 	text-align: center;
 	align-self: center;
 }
-.checked {
-  color: orange;
-}
 .html{
     padding: 0px;
     margin: 0px;
@@ -18,11 +15,10 @@
 .cabecalho{
   	background-color: rgb(85, 90, 100);
   	margin-bottom: 10px;
-    margin-top: 0px;
 }
 .menu_area{
 	font-size: 17px;
-    padding: 6px;
+    padding: 0.5%;
 }
 .menu_area nav a{
 	background-color: rgb(75, 80, 90);
@@ -33,7 +29,7 @@
     color: white;
 }
 .logo{
-	font-size: 30px;
+	font-size: 200%;
     margin-top: 3px;
 	text-align: center;
 }
@@ -49,6 +45,7 @@
 }
 .os_grandes h1{
     margin-top: -10px;
+    font-size: 130%
 }
 .carocel{
 	padding: 0px;
@@ -59,6 +56,7 @@
 .text h1{
     text-align: center;
     font-size: 30px;
+    margin-top: 3px;
 }
 .photo{
 	float: left;
@@ -97,7 +95,6 @@
 .rodape{
     margin: 0px;
     background-color: rgb(85, 90, 100);
-    margin-bottom: 5px;
 }
 .text-rod{
     margin-top: 15px;
