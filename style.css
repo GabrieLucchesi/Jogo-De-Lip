@@ -1,0 +1,110 @@
+.html, body {
+  	background-color: rgb(108, 117, 125);
+	font-family: Arial;
+	color:rgb(20, 20, 45);
+	align-items: center;
+	text-align: center;
+	align-self: center;
+}
+.checked {
+  color: orange;
+}
+.html{
+    padding: 0px;
+    margin: 0px;
+}
+
+/*Cabeçalho + menu*/
+.cabecalho{
+  	background-color: rgb(85, 90, 100);
+  	margin-bottom: 10px;
+    margin-top: 3px;
+}
+.menu_area{
+	font-size: 17px;
+    padding: 6px;
+}
+.menu_area nav a{
+	background-color: rgb(75, 80, 90);
+	color:rgb(20, 20, 45);
+}
+.menu_area nav a:hover{
+	background-color: rgb(65, 70, 80) !important;
+    color: white;
+}
+.logo{
+	font-size: 30px;
+    margin-top: 3px;
+	text-align: center;
+}
+
+/*Os grandes Nomes*/
+.os_grandes{
+	background-color: rgb(85, 90, 100);
+	margin-top: 5px;
+	padding: 1%;
+	margin-bottom: 15px;
+	font-size: 35px;
+	text-align: center;
+}
+.os_grandes h1{
+    margin-top: -10px;
+}
+.carocel{
+	padding: 0px;
+}
+.os_grandes b{
+    font-size: 14px;
+}
+.text h1{
+    text-align: center;
+    font-size: 30px;
+}
+.photo{
+	float: left;
+}
+.text{
+    color: rgb(190, 190, 190);
+    float: left;
+    text-align: left;
+	font-size: 15px;
+    padding: 3px;
+}
+.controler{
+    margin-top: 25px;
+}
+
+/*O JOGO */
+.jogo{
+    margin: 0px;
+}
+.titulo_jogo h1{
+    text-align: center;
+    font-size: 65px;
+}
+.link a{
+    color: black;
+}
+
+/*Como Jogar*/
+.como_jogar{
+    margin-top: 3px;
+    background-color: rgb(85, 90, 100);
+    margin-bottom: 15px;
+}
+
+/*Rodapé*/
+.rodape{
+    margin: 0px;
+    background-color: rgb(85, 90, 100);
+    margin-bottom: 5px;
+}
+.text-rod{
+    margin-top: 15px;
+    float: left;
+}
+.nome-rod{
+    float: right;
+    margin-top: 5px;
+    font-size: 30px;
+}
