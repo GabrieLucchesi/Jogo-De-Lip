@@ -90,6 +90,9 @@
     background-color: rgb(85, 90, 100);
     margin-bottom: 15px;
 }
+.titulo_como h1{
+    font-size: 300%;
+}
 
 /*Rodapé*/
 .rodape{
