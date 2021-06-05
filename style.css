@@ -84,13 +84,16 @@
     color: black;
 }
 
-/*Como Jogar*/
-.como_jogar{
+/*Como Jogar e Documentação*/
+.como_docu{
     margin-top: 3px;
     background-color: rgb(85, 90, 100);
     margin-bottom: 15px;
 }
 .titulo_como h1{
+    font-size: 300%;
+}
+.titulo_docu h1{
     font-size: 300%;
 }
 
